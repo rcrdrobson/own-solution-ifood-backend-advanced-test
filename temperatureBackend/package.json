@@ -1,0 +1,23 @@
+{
+  "name": "temperaturebackend",
+  "version": "1.0.0",
+  "description": "Backend using openweathermap api to get temperature from lacation",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rcrdrobson/own-solution-ifood-backend-advanced-test.git"
+  },
+  "author": "rcrdrobson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rcrdrobson/own-solution-ifood-backend-advanced-test/issues"
+  },
+  "homepage": "https://github.com/rcrdrobson/own-solution-ifood-backend-advanced-test#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
