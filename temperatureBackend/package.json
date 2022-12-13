@@ -18,7 +18,7 @@
   "homepage": "https://github.com/rcrdrobson/own-solution-ifood-backend-advanced-test#readme",
   "dependencies": {
     "body-parser": "1.19.0",
-    "express": "4.17.1",
+    "express": "4.17.3",
     "axios": "0.19.0"
   }
 }
